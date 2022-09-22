@@ -1,5 +1,5 @@
 const express = require("express");
-const contactsRouter = require("./app/route/contact.route");
+const contactsRouter = require("./app/routes/contact.route");
 const cors = require("cors");
 const ApiError = require("./app/api-error");
 
